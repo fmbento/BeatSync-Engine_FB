@@ -1,0 +1,6 @@
+{
+  "name": "BeatSync Engine",
+  "description": "An AI-powered music video generator that synchronizes video clips to musical beats with automatic scene matching and energy analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
